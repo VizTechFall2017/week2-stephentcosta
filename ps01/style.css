@@ -1,0 +1,29 @@
+.center {
+  fill: rgb(0, 166, 180);
+  stroke: white;
+  stroke-width: 3;
+}
+
+.second {
+  fill: rgb(0, 60, 80);
+  stroke: white;
+  stroke-width: 3;
+}
+
+.third {
+  fill: rgb(171, 203, 55);
+  stroke: white;
+  stroke-width: 3;
+}
+
+.fourth {
+  fill: rgb(255, 196, 49);
+  stroke: white;
+  stroke-width: 3;
+}
+
+.fifth {
+  fill: rgb(238, 40, 59);
+  stroke: white;
+  stroke-width: 3;
+}

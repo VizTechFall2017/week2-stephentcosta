@@ -1,0 +1,17 @@
+.defcircle {
+	fill: #ffcc00;
+	stroke-width: 3;
+	stroke: rgb(0,0,0);
+}
+
+.defcircle2 {
+	fill: #0000;
+	stroke-width: 3;
+	stroke: rgb(0,0,0);
+}
+
+.defcircle3 {
+	fill: #ff000;
+	stroke-width: 3;
+	stroke: rgb(0,0,0);
+}
